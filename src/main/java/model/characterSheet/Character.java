@@ -27,6 +27,7 @@ public class Character {
     public List<Trapping> trappings;
     public List<Armour> armour;
     public List<Weapon> weapons;
+    public String kalafior;
 
 
     public Character(String name, String species, String charClass, String career, int careerLevel, String careerPath, String status,
